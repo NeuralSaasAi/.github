@@ -1,0 +1,11 @@
+# Link checker config. Docs: https://lychee.cli.rs/usage/config/
+max_redirects = 10
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
+# Some sites reject requests without a browser user agent
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+# 403 and 429 usually mean bot protection or rate limiting, not a dead link
+accept = ["200..=299", "403", "429"]
+# Badge images rate-limit CI runners
+exclude = ["^https://img\\.shields\\.io"]

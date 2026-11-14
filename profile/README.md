@@ -3,6 +3,8 @@
 </p>
 
 <p align="center">
+  Free, open-source guides to <strong>AI engineering</strong>, <strong>AI system design</strong> and <strong>vibe coding</strong>.<br>
+  Learn LLMs, AI agents, RAG and evals, practise for AI system design interviews, and choose the right AI coding tools.<br>
   Everything here is free to read, and contributions are welcome.
 </p>
 
