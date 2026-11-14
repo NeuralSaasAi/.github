@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t">
+  <title id="t">AI Engineering Playbook</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4F5FF5"/>
+      <stop offset="1" stop-color="#8B7FFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#bg)"/>
+  <!-- agent graph rising out of an open book -->
+  <path d="M32 32 V21 M32 21 L19 14 M32 21 L45 14" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="19" cy="14" r="3.6" fill="#FFFFFF"/>
+  <circle cx="45" cy="14" r="3.6" fill="#FFFFFF"/>
+  <circle cx="32" cy="21" r="4.6" fill="#D7F657"/>
+  <path d="M8 37 C16 34.5 25 35 32 39.5 L32 54 C25 49.5 16 49 8 51.5 Z" fill="#FFFFFF"/>
+  <path d="M56 37 C48 34.5 39 35 32 39.5 L32 54 C39 49.5 48 49 56 51.5 Z" fill="#FFFFFF" opacity=".88"/>
+</svg>

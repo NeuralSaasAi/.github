@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-labelledby="t">
+  <title id="t">NeuralSaas AI: free, open-source guides for people who build with AI</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#10130F"/>
+      <stop offset="1" stop-color="#1B2119"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4F5FF5"/>
+      <stop offset=".5" stop-color="#7C5CFF"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4F5FF5"/>
+      <stop offset=".5" stop-color="#7C5CFF"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#FFFFFF" opacity=".06"/>
+    </pattern>
+    <clipPath id="r"><rect width="1280" height="320" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="20" fill="url(#dots)"/>
+  <rect x="0" y="312" width="1280" height="8" fill="url(#bar)"/>
+
+  <!-- org mark -->
+  <g transform="translate(96,80) scale(2.5)">
+    <rect width="64" height="64" rx="15" fill="url(#mark)"/>
+    <path d="M16 48 V16 L48 48 V16" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="16" cy="16" r="3.6" fill="#FFFFFF"/>
+    <circle cx="48" cy="48" r="3.6" fill="#FFFFFF"/>
+    <circle cx="32" cy="32" r="4.6" fill="#D7F657"/>
+  </g>
+
+  <text x="300" y="150" fill="#FFFFFF" font-size="64" font-weight="700">NeuralSaas AI</text>
+  <text x="300" y="200" fill="#C9D1C3" font-size="28">Free, open-source guides for people who build with AI.</text>
+  <text x="300" y="248" fill="#D7F657" font-size="22" font-weight="600">Learn  ·  Design  ·  Build</text>
+  </g>
+</svg>
