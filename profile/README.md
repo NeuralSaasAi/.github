@@ -14,7 +14,7 @@
       <a href="https://github.com/NeuralSaasAi/ai-engineering-playbook"><img src="https://raw.githubusercontent.com/NeuralSaasAi/.github/main/profile/assets/ai-engineering.svg" alt="AI Engineering Playbook icon" width="84"></a>
       <h3>AI Engineering Playbook</h3>
       <p><strong>Learn the skills.</strong> LLMs, agents, guardrails, LLM security, evals and memory, with hands-on projects. Beginner to intermediate.</p>
-      <a href="https://neuralsaasai.github.io/ai-engineering-playbook/"><img src="https://img.shields.io/badge/Read%20the%20site-4F5FF5?style=for-the-badge" alt="Read the site"></a>
+      <a href="https://ai-engineering.neuralsaasai.com/"><img src="https://img.shields.io/badge/Read%20the%20site-4F5FF5?style=for-the-badge" alt="Read the site"></a>
       <a href="https://github.com/NeuralSaasAi/ai-engineering-playbook"><img src="https://img.shields.io/badge/Repo-24292F?style=for-the-badge&logo=github" alt="Repo"></a>
     </td>
     <td width="33%" align="center" valign="top">
@@ -28,7 +28,7 @@
       <a href="https://github.com/NeuralSaasAi/vibe-coding-hub"><img src="https://raw.githubusercontent.com/NeuralSaasAi/.github/main/profile/assets/vibe-coding-hub.svg" alt="Vibe Coding Hub icon" width="84"></a>
       <h3>Vibe Coding Hub</h3>
       <p><strong>Build with AI tools.</strong> Tools, free tiers, current prices, and how to keep an AI-built app running.</p>
-      <a href="https://neuralsaasai.github.io/vibe-coding-hub/"><img src="https://img.shields.io/badge/Read%20the%20site-7C5CFF?style=for-the-badge" alt="Read the site"></a>
+      <a href="https://vibe-coding.neuralsaasai.com/"><img src="https://img.shields.io/badge/Read%20the%20site-7C5CFF?style=for-the-badge" alt="Read the site"></a>
       <a href="https://github.com/NeuralSaasAi/vibe-coding-hub"><img src="https://img.shields.io/badge/Repo-24292F?style=for-the-badge&logo=github" alt="Repo"></a>
     </td>
   </tr>
