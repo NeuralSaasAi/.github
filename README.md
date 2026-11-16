@@ -5,7 +5,7 @@ This repository holds the public profile of the [NeuralSaas AI organization](htt
 ## Our projects
 
 - [AI Engineering Playbook](https://github.com/NeuralSaasAi/ai-engineering-playbook): a free AI engineering course for beginners and intermediates. It covers LLMs, AI agents with LangGraph, RAG, guardrails, LLM security (OWASP Top 10 for LLMs), evals and agent memory, with five hands-on projects. [Website](https://ai-engineering.neuralsaasai.com/).
-- [AI System Design Playbook](https://github.com/NeuralSaasAi/ai-system-design-playbook): 20 AI system design case studies of production LLM and agent systems, with architecture, scale, cost and failure modes. Useful for AI system design interview preparation.
+- [AI System Design Playbook](https://github.com/NeuralSaasAi/ai-system-design-playbook): 20 AI system design case studies of production LLM and agent systems, with architecture, scale, cost and failure modes. Useful for AI system design interview preparation. [Website](https://ai-system-design-playbook.neuralsaasai.com/).
 - [Vibe Coding Hub](https://github.com/NeuralSaasAi/vibe-coding-hub): a guide to AI coding tools such as Cursor, Claude Code, Lovable and Bolt, with free tiers, dated prices and advice on keeping an AI-built app running. [Website](https://vibe-coding.neuralsaasai.com/).
 
 ## What is in this repository
